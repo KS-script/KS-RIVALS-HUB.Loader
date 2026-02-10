@@ -1,12 +1,7 @@
 # KS-RIVALS-HUB.Loader
-██╗  ██╗███████╗     ██████╗ ██╗██╗  ██╗ █████╗ ██╗    ███████╗
-██║ ██╔╝██╔════╝     ██╔══██╗██║██║  ██║██╔══██╗██║    ██╔════╝
-█████╔╝ ███████╗█████╗██████╔╝██║██║  ██║███████║██║    ███████╗
-██╔═██╗ ╚════██║╚════╝██╔══██╗██║╚██╗██╔╝██╔══██║██║    ╚════██║
-██║  ██╗███████║     ██║  ██║██║ ╚████╔╝ ██║  ██║███████╗███████║
 ╔═══════════════════════════════════════════════════════════════════╗                                                                                                                                                                                                                                            
-║  Thank you for using the KS script.                               ║                                                                                                                                                                                                                                           
-║  This script is the official KS Rivals hub script.                ║                                                                                                                                                                                                                                           
-║  Please do not add or mix this script with any other scripts.     ║                                                                                                                                                                                                                                           
+║  Thank you for using the KS script.-------------------------------║                                                                                                                                                                                                                                           
+║  This script is the official KS Rivals hub script.----------------║                                                                                                                                                                                                                                           
+║  Please do not add or mix this script with any other scripts.-----║                                                                                                                                                                                                                                           
 ╚═══════════════════════════════════════════════════════════════════╝                                                                                                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                  
